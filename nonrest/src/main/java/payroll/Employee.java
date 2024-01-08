@@ -6,10 +6,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-/**
- * Employee is the main entity used 
- * 
- */
+/* hello*/
+
 @Entity
 class Employee {
 
