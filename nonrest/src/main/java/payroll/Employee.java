@@ -10,6 +10,10 @@ import javax.persistence.Id;
  * Employee is the main entity used 
  * 
  */
+/**
+ * Employee is the main entity used 2nd one
+ * 
+ */
 @Entity
 class Employee {
 
