@@ -7,7 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * Employee is the main entity used  here again
+ * first commit for lab session 2
  * 
  */
 @Entity
