@@ -8,8 +8,17 @@ import javax.persistence.Id;
 
 /**
  * Employee is the main entity used 
+ * This is skeleton based
+ * need to be implemented
+ * for project
+ * 
+ *  modifications to be done
+ *  
+ *  for selab 2023
  * 
  */
+
+
 @Entity
 class Employee {
 
