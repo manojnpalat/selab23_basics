@@ -10,7 +10,6 @@ import javax.persistence.Id;
  * Employee is the main entity used 
  * 
  */
-//I am creating a new branch 
 @Entity
 class Employee {
 
